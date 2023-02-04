@@ -14,3 +14,9 @@
 
 ### Las Bases de Datos No Relacionales 🎟️
 
+> no son solo un tipo son diferentes. Algunas basadas en documentos, otras basadas en grafos, otras son columnares, algunas se las guarda en memoria.
+
+>Las bases de datos no relacionales no con como las relacionales, son herramientas específicas para ciertos tipos de trabajo como: mantener el estado de la aplicación (base de datos basado en documentos), si se quiere hacer analítica de datos se requiere un datawarehouse (algo basado en grafos), si se quiere tener algo con relaciones muy complejas entre entidades se recomienda las bases de datos basadas en grafos. Dependiendo el caso de uso se utiliza una herramienta diferente.
+
+>Las bases de datos relacionales también evolucionaron con el paso del tiempo, se han acoplado nuevas funcionalidades, como él implementó de funciones, nuevos esquemas de trabajo y varias funcionalidades nuevas para mantenerse vivas en el mundo del manejo de datos.
+
