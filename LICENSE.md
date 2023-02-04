@@ -6,7 +6,7 @@
 
 >En ese contexto nacen las bases de datos relacionales fueron un esfuerzo, incluido matemático, para hacer la conjunción de datos y mantenerlos estables, de forma que no solo pudiéramos guardar, sino también extraer y hacer cosas ingeniosas con los datos, como cálculos estadísticos. Ejemplos de estas bases de datos serían: SQLServer, Oracle, PostgreSQL, MariaDB, MySQL.
 
-### Las bases de datos relacionales históricamente 
+### Las bases de datos relacionales históricamente  🗺️
 
 > son una navaja Suiza, son la herramienta que arregla en general todos los casos de datos y te permite hacer sistemas muy robustos con una sola herramienta.
 
