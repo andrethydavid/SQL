@@ -25,3 +25,5 @@
 🚀
 * Por otro lado para una base de datos no relacional seria algo curioso, se me ocurre un caso de investigación en la que muchas variables puedan ser medidas por un robot que seria enviado a cumplir esta tarea, pero no se sabe si estas variables existirán en el medio estudiado, podría ser como un viaje a marte o algún otro planeta, incluso a los fondos mas oscuros del mar. Se usaría una base de datos no relacional ya que no habrá una estructura definida de los datos que serán emitidos por el robot enviado. Podría ser una base de datos basada en documentos, como Firebase o MongoDB.
 🤓
+
+*
