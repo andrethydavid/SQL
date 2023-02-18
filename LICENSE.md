@@ -38,6 +38,8 @@
 * Window functions trata de encontrar relaciones entre un registro y el resto de registros
 
 
+![image](https://user-images.githubusercontent.com/72534486/219826951-f7a5fbc6-6d94-4070-aab6-d8acd0747604.png)
+
 
 
 
