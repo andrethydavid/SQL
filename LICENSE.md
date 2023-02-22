@@ -41,5 +41,9 @@
 ![image](https://user-images.githubusercontent.com/72534486/219826951-f7a5fbc6-6d94-4070-aab6-d8acd0747604.png)
 
 
+# Window functions
+
+e ocupan para entender la relación que guarda un registro en particular con respecto al resto del dataset, ya sea una tabla, una partición o un query.
+Generalmente se encargan de hacer rankings
 
 
