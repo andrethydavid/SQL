@@ -49,3 +49,11 @@ Generalmente se encargan de hacer rankings
 ![image](https://user-images.githubusercontent.com/72534486/220504445-ea860a4e-eb3b-46de-b0fe-ecd7e90cad67.png)
 
 # PARTICIONES
+
+Particionado - Dividir una tabla en segmentos lógicos. Es una practica común de los manejadores, pero no todos ofrecen la opción para los usuarios de administrar estas particiones. Resulta útil para optimizar las consultas de datos.
+Observaciones:
+
+* No todas las tablas deben de ser particionadas, vale la pena hacerlo unicamente cuando hay muchos registros.
+* Permite optimizar algunas consultas al no tener que buscar dentro de toda una tabla sino unicamente en un segmento especifico.
+* El particionado altera la consistencia de la tablas
+* No existen los indices (llaves primarias) en las particiones, o mejor dicho, estos indices cambian basándose en la partición. e.g Si particionas una tabla por fechas, al buscar un dato especifico el primer criterio de búsqueda será la fecha
