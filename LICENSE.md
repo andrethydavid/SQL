@@ -46,4 +46,6 @@
 e ocupan para entender la relación que guarda un registro en particular con respecto al resto del dataset, ya sea una tabla, una partición o un query.
 Generalmente se encargan de hacer rankings
 
+![image](https://user-images.githubusercontent.com/72534486/220504445-ea860a4e-eb3b-46de-b0fe-ecd7e90cad67.png)
+
 
