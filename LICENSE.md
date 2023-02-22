@@ -48,4 +48,4 @@ Generalmente se encargan de hacer rankings
 
 ![image](https://user-images.githubusercontent.com/72534486/220504445-ea860a4e-eb3b-46de-b0fe-ecd7e90cad67.png)
 
-
+# PARTICIONES
