@@ -211,6 +211,7 @@ DUPLICADOS
 
 Son todos los datos que se repiten 
 
+
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f4821c0-e431-4dab-9459-68e5696c7b22/Untitled.png)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2c19ae7-419d-4231-b627-94b132e105bd/Untitled.png)
